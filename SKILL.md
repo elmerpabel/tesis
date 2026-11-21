@@ -77,7 +77,7 @@ Estructura interna creada automáticamente:
 
 ## 🧭 Metodología Obligatoria en 6 Fases
 
-Consulta `references/methodology_guide.md`, `references/bloom_and_matrices.md` y `references/presentation_guide.md` antes de redactar.
+Consulta `references/methodology_guide.md`, `references/bloom_and_matrices.md`, `references/presentation_guide.md` y la plantilla colaborativa `templates/04_Colaborador_Futura.md` (estructura de desarrollo por capítulos I–IV + Conclusiones y Recomendaciones alineadas 1 a 1 con los objetivos) antes de redactar.
 
 ### Fase 1 - Diagnóstico y arquitectura conceptual
 - Evalúa la viabilidad del tema y sugiere **3 enfoques alternativos** si es necesario (aplicando la fórmula *Causa–Problema–Efecto–Solución*).

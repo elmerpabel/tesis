@@ -143,7 +143,8 @@ tesis/
 ├── templates/
 │   ├── 01_ficha_base.md                  # Plantilla de ficha de entrada del tesista
 │   ├── 02_matriz_consistencia.md         # Plantilla de Matriz de Consistencia y Operacionalización
-│   └── 03_capitulo_1_plantilla.md        # Plantilla académica del Capítulo 1
+│   ├── 03_capitulo_1_plantilla.md        # Plantilla académica del Capítulo 1
+│   └── 04_Colaborador_Futura.md          # Plantilla colaborativa de desarrollo por capítulos (Cap. I–IV, Conclusiones y Anexos)
 └── scripts/
     ├── create_tesis_folder.py            # Creador automático de carpetas 000_Tesis_Antigravity_<Acronimo>
     └── export_to_gdocs.py                # Exportador opcional de Markdown a Google Docs
